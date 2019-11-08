@@ -1,5 +1,7 @@
 # Sprint Challenge: State Management - Smurfs
 
+# initial commit
+
 This challenge allows you to practice the concepts and techniques learned over the past Sprint and apply them in a concrete project. This Sprint explored the context API, the reducer pattern, and Redux. In your challenge for this Sprint, you will demonstrate proficiency by creating an application that uses ReactJS to consume live data retrieved from the World Wide Web.
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
@@ -60,12 +62,12 @@ Follow these steps to set up your project:
 
 ```js
 [
-  {
-    name: "Brainey",
-    age: 200,
-    height: "5cm",
-    id: 0
-  }
+	{
+		name: "Brainey",
+		age: 200,
+		height: "5cm",
+		id: 0
+	}
 ];
 ```
 
@@ -93,18 +95,18 @@ Example of object created in Smurf DB:
 
 ```js
 [
-  {
-    name: "Brainey",
-    age: 200,
-    height: "5cm",
-    id: 0
-  },
-  {
-    name: "Sleepy",
-    age: 200,
-    height: "5cm",
-    id: 1
-  }
+	{
+		name: "Brainey",
+		age: 200,
+		height: "5cm",
+		id: 0
+	},
+	{
+		name: "Sleepy",
+		age: 200,
+		height: "5cm",
+		id: 1
+	}
 ];
 ```
 
@@ -153,11 +155,11 @@ Example:
 
 ```js
 output: [
-  {
-    name: "Sleepy",
-    age: 200,
-    height: "5cm",
-    id: 1
-  }
+	{
+		name: "Sleepy",
+		age: 200,
+		height: "5cm",
+		id: 1
+	}
 ];
 ```
